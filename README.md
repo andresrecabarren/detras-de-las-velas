@@ -12,7 +12,6 @@ Artículo de opinión que explora las habilidades invisibles que se desarrollan 
 
 | Formato | Archivo |
 |---------|---------|
-| Word    | [`detras_de_las_velas.docx`](./detras_de_las_velas.docx) |
 | PDF     | [`detras_de_las_velas.pdf`](./detras_de_las_velas.pdf) |
 
 ## Contenido
